@@ -5,7 +5,7 @@ body {
     color: #333;
 }
 
-/* HEADER */
+
 header {
     background: linear-gradient(135deg, #6a11cb, #2575fc);
     color: white;
@@ -25,7 +25,7 @@ nav a {
     font-weight: bold;
 }
 
-/* SECTIONS */
+
 section {
     padding: 40px 20px;
     text-align:left;
@@ -36,7 +36,7 @@ h2 {
     color: #2575fc;
 }
 
-/* ABOUT */
+
 #about img {
     width: 140px;
     border-radius: 50%;
@@ -53,7 +53,7 @@ h2 {
     font-size: 13px;
 }
 
-/* PROJECTS */
+
 .project-card {
     background: white;
     padding: 20px;
@@ -121,7 +121,7 @@ button {
     cursor: pointer;
 }
 
-/* FOOTER */
+
 footer {
     background: #222;
     color: white;
